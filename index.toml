@@ -1091,6 +1091,11 @@ hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "3b2c88879ff02d194cc16196b6c8b9181f5294fce8468afc11e0311f9e081034"
 metafile = true
