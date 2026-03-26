@@ -1,0 +1,13 @@
+name = "Easy NPC: Core"
+filename = "easy_npc-neoforge-1.21.1-6.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Epm6R3P2/versions/LJwVbGaI/easy_npc-neoforge-1.21.1-6.11.0.jar"
+hash-format = "sha512"
+hash = "c0fbd01daa2e2888f8651cc0f4e2f09d1c86c405e53632491d3493c1e1d433afa9508db4dcbdc04bf8944eed6268625be6ed70eae66c49ae94c7bc522a57e4e6"
+
+[update]
+[update.modrinth]
+mod-id = "Epm6R3P2"
+version = "LJwVbGaI"

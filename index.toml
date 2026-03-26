@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -846,6 +846,21 @@ hash = "786785f601a48f15d7f948562faaf8d7af8abcbdf2a48575878fbd67311d83d9"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "0cd884c641f0404b75b445ae514e093c18ccb1fc6ed76a7dab8094884c2d8b68"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "416d2b10a639c3785de611a49b209f5c0cce117324cf78d761603ae0e65e0d52"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "1d42d8da729c5a2638e24f228b75f2ea9aed878b0c3949ed9c8a5b57ae254982"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
@@ -873,6 +888,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "291ab7e398118ff6a89b43eae60c3b219e1d96caaf048de00ad0747048e3ab48"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
 metafile = true
 
 [[files]]
