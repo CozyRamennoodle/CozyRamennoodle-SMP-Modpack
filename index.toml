@@ -716,6 +716,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
 metafile = true
@@ -738,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/camerapture.pw.toml"
 hash = "a5202c7c26a0de8a614c52bdfdc61b540b7a6b4dbad4a7497480aea03fcf65ac"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -911,6 +921,11 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -1071,6 +1086,16 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "e960df6664514910fa5190229c448bffbcddb29d822bb7c07566bf31fd65772f"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -1081,8 +1106,18 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/saros-money.pw.toml"
+hash = "b93afde29659b446e0bceaf2517b237cb755ac31b6cbdacde872a607b274b06e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
 metafile = true
 
 [[files]]
@@ -1118,6 +1153,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "3b2c88879ff02d194cc16196b6c8b9181f5294fce8468afc11e0311f9e081034"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
