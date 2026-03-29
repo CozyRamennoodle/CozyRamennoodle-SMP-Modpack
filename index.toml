@@ -821,6 +821,11 @@ hash = "f4b24e22e6168f8df906d222d8de0a31bec0263a3f5425344ee0736681655842"
 metafile = true
 
 [[files]]
+file = "mods/createtools-n-weapons.pw.toml"
+hash = "7409e86fd018ca728cfb2e6287c7bd10282566833f7b88e96617375c5aa8c307"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
 metafile = true
@@ -878,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9a6f001c27c05b372f72ba0941e4904ab79fb7b1a9bd5944f9d41dc79cfb8ab1"
+metafile = true
+
+[[files]]
+file = "mods/essentialcommands.pw.toml"
+hash = "34a6d27fdb305f1050bc19d94ea5a8a7286a676c43a37716b19abb00dc1497c7"
 metafile = true
 
 [[files]]
@@ -1066,6 +1076,11 @@ hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
 metafile = true
 
 [[files]]
+file = "mods/opac-bonus-claims.pw.toml"
+hash = "ebf498efc7d46c761dbef61bf69af37500c962fbf7d8aa8cd86f153ccb77e2b7"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "229d0e9d72e3210a98f39bd88e9cab16c5ec2e496ff3167a0bb1d074b58d7888"
 metafile = true
@@ -1078,6 +1093,11 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "4fb91dd7385a43aa69275ee5b01f6002394cea5f5027eac7e026d5ba6adeebfc"
+metafile = true
+
+[[files]]
+file = "mods/playing-cards-chips.pw.toml"
+hash = "767855ad1ef1650c045208e5f32ea69f7bcd5cc1989ae0f4542e13d97ee21b3a"
 metafile = true
 
 [[files]]
@@ -1116,6 +1136,11 @@ hash = "15c145ff1f48e22759871c48775951ade48bc1875b2acc9f88c23b78537c596a"
 metafile = true
 
 [[files]]
+file = "mods/slots-machine.pw.toml"
+hash = "3f0e2f63889e87379f07d5b44f488c9c9826cf112c63331229df38a596aabf0a"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
 metafile = true
@@ -1148,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/spuds-shops.pw.toml"
+hash = "5da381322f532c6454a5efcb36834aa1ac6cd1c79a2096cabf27843becbb1c4e"
 metafile = true
 
 [[files]]
