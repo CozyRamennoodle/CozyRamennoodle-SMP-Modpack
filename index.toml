@@ -1136,12 +1136,12 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "c520ea0c01de769559c2716c206b12d4e8fb5a2a31bc047c9ed5214af3f43cc8"
+hash = "dfeea0349a851f6495e4d4bc7b8d633fecfd3b7263364eb00024a2af1d233f08"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "4fb91dd7385a43aa69275ee5b01f6002394cea5f5027eac7e026d5ba6adeebfc"
+hash = "cabdaf6250bc867fc9d935a453496b66fe4ec8fddbbc50579937dcd6d2f13011"
 metafile = true
 
 [[files]]

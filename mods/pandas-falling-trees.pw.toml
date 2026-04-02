@@ -1,13 +1,13 @@
 name = "Panda's Falling Trees"
-filename = "fallingtrees-neoforge-1.21.1-0.14.0-APLHA.2.1.jar"
+filename = "fallingtrees-neoforge-1.21.1-0.14.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/W9ap9BqO/fallingtrees-neoforge-1.21.1-0.14.0-APLHA.2.1.jar"
+url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/26ZXBAbi/fallingtrees-neoforge-1.21.1-0.14.0.jar"
 hash-format = "sha512"
-hash = "4c9285c2eb1552a6f277ad87f88c9ad736e5c0bab1f02d3fe5835e05bd2c86c21f7cc4988f8a444c3fca75e3097f69fdb8ea118d6bd55981ab35e14b07f3fbaf"
+hash = "9a7a4efd1f71e73243221d67659ed487212af959decb90fcf5073e5f7fa96dd8c4a7333e9e4fbf053418319f883e1ae3044f3f182c35214c3d6a7de4ef68b8b7"
 
 [update]
 [update.modrinth]
 mod-id = "i2kUe4lq"
-version = "W9ap9BqO"
+version = "26ZXBAbi"
