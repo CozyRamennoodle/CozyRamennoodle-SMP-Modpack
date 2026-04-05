@@ -800,6 +800,11 @@ hash = "376b22883dd4642dee7bf1e727440cb01d87d72293952a1ddf0c2f1c25fa7863"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
 metafile = true
@@ -822,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "e002fe71d2ddab09d22e9def9aef6cfc4decfcf372ca40c9cb4d7987f3190fad"
 metafile = true
 
 [[files]]
@@ -935,6 +945,16 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "291ab7e398118ff6a89b43eae60c3b219e1d96caaf048de00ad0747048e3ab48"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ranks-forge.pw.toml"
+hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
+metafile = true
+
+[[files]]
 file = "mods/functional-armor-trim.pw.toml"
 hash = "19a2c840bb56b9fb1c217301cb0ae79027248719222f6e78d91de2b6fe474043"
 metafile = true
@@ -1002,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
+metafile = true
+
+[[files]]
+file = "mods/jurassic-reborn.pw.toml"
+hash = "40853467cc0ea8179118a8ff3b56b66bdee98e1b042f66bcdda36b831ef652c3"
 metafile = true
 
 [[files]]
