@@ -915,6 +915,11 @@ hash = "34a6d27fdb305f1050bc19d94ea5a8a7286a676c43a37716b19abb00dc1497c7"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights-neoforge.pw.toml"
+hash = "8e5215ac8b0a64a3f84dc1a71bab964f441a4f6a32cd15236212831869929305"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
 metafile = true
