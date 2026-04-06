@@ -682,7 +682,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d5c7247d9c30419e3bb652e1099864304af6c016196b6e07fb560e515fe6fe5b"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights-neoforge.pw.toml"
-hash = "0a4ed3675a4aeb366af218df5ef64f5ca82d071f24c2165ad4b0d9e055264721"
+hash = "8c0d6a2e6a77f595b4adb278b672c54d4e04433fa7fd823c93e82e3321228941"
 metafile = true
 
 [[files]]
