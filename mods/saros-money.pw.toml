@@ -1,13 +1,13 @@
 name = "Saro´s Money"
-filename = "Saros-Money-Mod.1.21.1-3.5-NeoForge.jar"
+filename = "Saros-Money-Mod.1.21.1-neoforge-3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vRkO4kGw/versions/8igf3YRH/Saros-Money-Mod.1.21.1-3.5-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/vRkO4kGw/versions/Rn9JkaYn/Saros-Money-Mod.1.21.1-neoforge-3.6.jar"
 hash-format = "sha512"
-hash = "e38656ce0202d7cc949891fcb10fb80743e65d97714f62e2d092168f5eb33e517241c3a9fb311c6fa924ae8f6b8cb57e83278066bd004fa4ace04f1cb5fad268"
+hash = "aa43230751bc81a7d5280b537f8b26f03c8a1de90be5c078e0f6c09b4d3ff8617369e233b2908945b5f976b722625659042f9503d58a57dc7b1c12362a484688"
 
 [update]
 [update.modrinth]
 mod-id = "vRkO4kGw"
-version = "8igf3YRH"
+version = "Rn9JkaYn"
