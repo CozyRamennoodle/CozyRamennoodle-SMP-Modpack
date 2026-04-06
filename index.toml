@@ -1155,6 +1155,11 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "dfeea0349a851f6495e4d4bc7b8d633fecfd3b7263364eb00024a2af1d233f08"
 metafile = true
