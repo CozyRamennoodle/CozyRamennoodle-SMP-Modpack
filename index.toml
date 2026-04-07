@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -912,11 +912,6 @@ metafile = true
 [[files]]
 file = "mods/essentialcommands.pw.toml"
 hash = "34a6d27fdb305f1050bc19d94ea5a8a7286a676c43a37716b19abb00dc1497c7"
-metafile = true
-
-[[files]]
-file = "mods/fairy-lights-neoforge.pw.toml"
-hash = "8e5215ac8b0a64a3f84dc1a71bab964f441a4f6a32cd15236212831869929305"
 metafile = true
 
 [[files]]
@@ -1132,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
 metafile = true
 
 [[files]]
