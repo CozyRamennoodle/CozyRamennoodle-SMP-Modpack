@@ -1355,6 +1355,11 @@ hash = "927bb6afb3bb7196ed2874ba6fc0fb6140c6ec714dd91680d8e98209b5798849"
 metafile = true
 
 [[files]]
+file = "mods/superior-hammers.pw.toml"
+hash = "e24b89594bc561db85fdb600559fa9718ab3d00e9df2e8cc799ec6119c12a970"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true

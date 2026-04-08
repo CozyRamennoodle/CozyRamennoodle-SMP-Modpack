@@ -1,0 +1,13 @@
+name = "Hammers 3x3! [NEO/FORGE/FABRIC]"
+filename = "hammers-2.1.5-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TdHBYVwb/versions/clzG7ms6/hammers-2.1.5-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "8ed4fef4d614dc50493c848224c5b40246e22c5bd248df65c487e6c6bbf807d4ede0839fec437f69c8673b532d72dcf98647dc64c3b1e6cd3a501aeef3c6ff57"
+
+[update]
+[update.modrinth]
+mod-id = "TdHBYVwb"
+version = "clzG7ms6"
