@@ -1195,11 +1195,6 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
-metafile = true
-
-[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
 metafile = true
