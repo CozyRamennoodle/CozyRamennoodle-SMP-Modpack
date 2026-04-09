@@ -1055,6 +1055,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
@@ -1162,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
+metafile = true
+
+[[files]]
+file = "mods/network-protocol-disconnect.pw.toml"
+hash = "5062e10bf7aed41933f6edfbbc906b552f4759c8e4d45f58ecac5612af382710"
 metafile = true
 
 [[files]]
