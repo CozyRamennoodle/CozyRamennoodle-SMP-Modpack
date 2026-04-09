@@ -920,6 +920,11 @@ hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "345aafba9f5ae662ff82825aef1384aa5cfe2e952afd28c950b1553e6be464ef"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7d2a4a0926c39e1da0999bb243dc274de984670f0d131022e0b98bf8f9b8c325"
 metafile = true
