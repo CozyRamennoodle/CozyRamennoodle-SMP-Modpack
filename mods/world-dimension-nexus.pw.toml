@@ -1,0 +1,13 @@
+name = "World Dimension Nexus"
+filename = "world_dimension_nexus-neoforge-1.21.1-0.11.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nUBOuZRL/versions/EhqiGjAR/world_dimension_nexus-neoforge-1.21.1-0.11.0.jar"
+hash-format = "sha512"
+hash = "78de93ba751c723ce6873548b1046887f51587fbc921f008482f6dcce6114146ae5915125b76c99cd494b6fded84a037658bc4bfbbf7a8ce6f98c93512dd48da"
+
+[update]
+[update.modrinth]
+mod-id = "nUBOuZRL"
+version = "EhqiGjAR"

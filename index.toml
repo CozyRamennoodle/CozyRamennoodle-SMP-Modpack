@@ -1405,6 +1405,11 @@ hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
 metafile = true
 
 [[files]]
+file = "mods/world-dimension-nexus.pw.toml"
+hash = "c85a33e14fad0a36c2f47eb7e6d96f10568c7934097fa27e3de6e48aa9f525dc"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "02e2acc15a8c1b7bbe44a64af68574d7e024f1c45504a6997568c9fcbab3846b"
 metafile = true
