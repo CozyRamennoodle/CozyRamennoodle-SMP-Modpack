@@ -750,11 +750,6 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "e734054390df547584e7f3ca56cfbfb235ac4f13cc7d2c0fda730f83f836d4b5"
-metafile = true
-
-[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
 metafile = true
