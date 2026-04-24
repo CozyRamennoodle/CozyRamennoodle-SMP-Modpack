@@ -1255,6 +1255,11 @@ hash = "b4cb292255e46d058ef9c4a6bcdf562ae539489a31d0b4bea3718042d98e5c86"
 metafile = true
 
 [[files]]
+file = "mods/reconstructed-wands.pw.toml"
+hash = "59226821b9e7d45259019ee822a4480c0edd3b3c7f067b17767a035ebb71529a"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
 metafile = true
