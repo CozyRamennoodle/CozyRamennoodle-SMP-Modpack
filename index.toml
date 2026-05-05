@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -787,6 +787,41 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
+metafile = true
+
+[[files]]
+file = "mods/cobbledollars.pw.toml"
+hash = "f8f24938d865a76f46ddeec0a9f648514bf862574786c288749b099b2c8273c9"
+metafile = true
+
+[[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "9a882acc1902d51c177362abbfb5fe51dd06ee3de40297cd6d4ab58d971045ed"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-badgebox.pw.toml"
+hash = "fd3b2ee6f4fa70e5ef3a72a583e24cf0de12ae0b15e4b2f7a4642195a8213589"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "3efa711e77a99008f28b7831ab8696263bccaab984cd1e62e44b7220e69a6a3c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "908805e81c181be33244a3594475ebb5d4e9d88fc8912024420ae621d2f51367"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "101c2bab0ec74d4265cdb1fd9c2d2c3987773be3ecbb4bb7b759db47df8412ad"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
 
 [[files]]
@@ -877,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "ea6b6845387f8d990e607eaa98d027734f7d1a8823434ef901f81a5736d60aa9"
 metafile = true
 
 [[files]]
@@ -975,8 +1015,28 @@ hash = "291ab7e398118ff6a89b43eae60c3b219e1d96caaf048de00ad0747048e3ab48"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-optimizer.pw.toml"
+hash = "96dcf3ac4d2780468b34de83620540d85e9c37fa8531816c68ee4da5788c4020"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ranks-forge.pw.toml"
 hash = "810e1fce6db6ac0a6bfce460c0908ed8e9b33648fddbb65db849aba368e8d7bc"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
 metafile = true
 
 [[files]]
@@ -1225,6 +1285,11 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
+file = "mods/pkgbadges.pw.toml"
+hash = "7ac8701de4b6e62f703cd2387455fde89c9e529c365835e62bb2b3df16bcbf33"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -1242,6 +1307,16 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "885c44754598d945b8fb26f0e509d3ba34560a560687550cdd4750919b43deab"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "62be690120a069777b7c7646e146692119f612583f84b0f194bba88ab7ebffcd"
 metafile = true
 
 [[files]]
