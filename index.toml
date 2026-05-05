@@ -1055,11 +1055,6 @@ hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
 
 [[files]]
-file = "mods/jurassic-reborn.pw.toml"
-hash = "40853467cc0ea8179118a8ff3b56b66bdee98e1b042f66bcdda36b831ef652c3"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
