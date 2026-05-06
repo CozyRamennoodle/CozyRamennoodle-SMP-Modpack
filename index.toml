@@ -1225,6 +1225,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/multiworld.pw.toml"
+hash = "7b329b1c605a86df77d5bc601fac60f84b269145ccbbc01c0907215eaec6f54f"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
@@ -1482,11 +1487,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
-metafile = true
-
-[[files]]
-file = "mods/world-dimension-nexus.pw.toml"
-hash = "c85a33e14fad0a36c2f47eb7e6d96f10568c7934097fa27e3de6e48aa9f525dc"
 metafile = true
 
 [[files]]
