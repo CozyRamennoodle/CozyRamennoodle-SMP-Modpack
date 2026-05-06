@@ -1250,11 +1250,6 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
-file = "mods/pkgbadges.pw.toml"
-hash = "7ac8701de4b6e62f703cd2387455fde89c9e529c365835e62bb2b3df16bcbf33"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
