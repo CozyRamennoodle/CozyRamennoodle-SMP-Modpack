@@ -790,41 +790,6 @@ hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
 metafile = true
 
 [[files]]
-file = "mods/cobbledollars.pw.toml"
-hash = "f8f24938d865a76f46ddeec0a9f648514bf862574786c288749b099b2c8273c9"
-metafile = true
-
-[[files]]
-file = "mods/cobblefurnies.pw.toml"
-hash = "9a882acc1902d51c177362abbfb5fe51dd06ee3de40297cd6d4ab58d971045ed"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-badgebox.pw.toml"
-hash = "fd3b2ee6f4fa70e5ef3a72a583e24cf0de12ae0b15e4b2f7a4642195a8213589"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "3efa711e77a99008f28b7831ab8696263bccaab984cd1e62e44b7220e69a6a3c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
-hash = "908805e81c181be33244a3594475ebb5d4e9d88fc8912024420ae621d2f51367"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-quests.pw.toml"
-hash = "101c2bab0ec74d4265cdb1fd9c2d2c3987773be3ecbb4bb7b759db47df8412ad"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
@@ -912,11 +877,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
-file = "mods/customnpcs-unofficial.pw.toml"
-hash = "ea6b6845387f8d990e607eaa98d027734f7d1a8823434ef901f81a5736d60aa9"
 metafile = true
 
 [[files]]
@@ -1312,16 +1272,6 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
-metafile = true
-
-[[files]]
-file = "mods/rctapi.pw.toml"
-hash = "885c44754598d945b8fb26f0e509d3ba34560a560687550cdd4750919b43deab"
-metafile = true
-
-[[files]]
-file = "mods/rctmod.pw.toml"
-hash = "62be690120a069777b7c7646e146692119f612583f84b0f194bba88ab7ebffcd"
 metafile = true
 
 [[files]]
