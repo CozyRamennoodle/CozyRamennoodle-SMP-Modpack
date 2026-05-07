@@ -1445,11 +1445,6 @@ hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
 metafile = true
 
 [[files]]
-file = "mods/structure-pool-api.pw.toml"
-hash = "45b6b48942514a6b24c9d5c15a403bc2ec00200d22d24bd2d8c4ddbb28188362"
-metafile = true
-
-[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "927bb6afb3bb7196ed2874ba6fc0fb6140c6ec714dd91680d8e98209b5798849"
 metafile = true
