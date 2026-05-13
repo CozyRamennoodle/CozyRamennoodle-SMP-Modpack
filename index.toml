@@ -1335,6 +1335,11 @@ hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
 metafile = true
 
 [[files]]
+file = "mods/realm-rpg-treasure-balloons.pw.toml"
+hash = "f60f365551297953b10613194fd0431ab8dd58e853a5e66c0959fccf0e508d32"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-chipped.pw.toml"
 hash = "e960df6664514910fa5190229c448bffbcddb29d822bb7c07566bf31fd65772f"
 metafile = true
