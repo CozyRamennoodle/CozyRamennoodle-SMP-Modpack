@@ -945,13 +945,18 @@ hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "345aafba9f5ae662ff82825aef1384aa5cfe2e952afd28c950b1553e6be464ef"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7d2a4a0926c39e1da0999bb243dc274de984670f0d131022e0b98bf8f9b8c325"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
@@ -967,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+metafile = true
+
+[[files]]
+file = "mods/fdlib.pw.toml"
+hash = "66ebc57b6ea5e09a154e21ee6edd384fbbe3002872026bf8224eede15e458456"
 metafile = true
 
 [[files]]
@@ -1090,6 +1100,21 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade-modded-entities.pw.toml"
+hash = "06465cf25a57e6cb6f6b5194b6046366583cbf54bc342dec681d3d460da5ff19"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
@@ -1185,8 +1210,13 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
+file = "mods/medieval-siege-machines.pw.toml"
+hash = "96892a94024be0a16de0f65bb3388bd07d19cb43a7179cd5bedcedfe4023d13e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
+hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
 metafile = true
 
 [[files]]
@@ -1292,6 +1322,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
+file = "mods/raidsenhanced.pw.toml"
+hash = "3ed916cae5f62882fc2cadb4ef8352edd3968dd4a0fb74bc904bec12b1849b96"
 metafile = true
 
 [[files]]
