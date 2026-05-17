@@ -1,7 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "How to update GitHub.txt"
+file = "New Text Document.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "blank.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
@@ -1317,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/playing-cards-chips.pw.toml"
 hash = "767855ad1ef1650c045208e5f32ea69f7bcd5cc1989ae0f4542e13d97ee21b3a"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
